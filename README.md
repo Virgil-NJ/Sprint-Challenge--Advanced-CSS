@@ -34,13 +34,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the difference between an adaptive website and a fully responsive website?
 
+ANSWER: IN ADAPTIVE YOU DESIGN FOR JUST EACH SIZE YOU THINK YOU NEED, WHILE FULLY RESPONSIVE YOU DESGIN YOU THOSE SAME SIZES BUT IT IS FLUID IT IS ABLE TO CHANGE FOR SIZES IN BETWEEN.
+
 2. Describe what it means to be mobile first vs desktop first.
+
+ANSWER: MOBILE FIRST IS THE EXACT OPPISITE OF HOW WE CODE SITES THIS WEEK, THIS IS WHEN YOU START WITH A SIMPLE MOBILE VIEW AND SCALE UP TO DESKTOP VIEW.  ACCORDING TO THE ARTICLES I READ THIS IS STYLE GIVED BETTER LOADING SPEED FOR MOBILE PLATFORMS BECAUSE THEY ONLY LOAD WHAT IS NEEDED INSTEAD OF LOADING EVERYTHING AND REMOVING WHAT ISN'T NEEDED.
 
 3. What does `font-size: 62.5%` in the `html` tag do for us when using `rem` units?
 
+ANSWER: THE USE OF THE 62.5% FONT SIZE IS TO GIVE A REFERENCE POINT YOUR ARE FAMILAR WITH IN REM, EXAMPLE 16PX EQUALS 1.6REM, MAKING IT A LOT EASIER TO WORK WITH REM.
+
 4. How would you describe preprocessing to someone new to CSS?
 
+ANSWER: THE DIFFERENCE BETWEEN THE POWER OF A MERE MORTAL AND GOD, LOL. PREPROCESSORS ADDS FUNCTIONALITY THAT YOU DON'T HAVE WITH JUST PLAIN CSS, MAKING EVERYTHING JUST EASIER TO WORK WITH AND FASTER.
+
 5. What is your favorite concept in preprocessing? What is the concept that gives you the most trouble?
+
+ANSWER: MIXINS ARE MY FAVORITE NEED TO LEARN THEM BETTER IT CUTS OUT SO MUCH CODE WRITING, LEAST FAVORITE IS THE @MEDIA VARIABLES AND USE, NEED MORE WORK ON IT.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
